@@ -52,6 +52,12 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asik8&theme=github-dark-blue&hide_border=false" alt="GitHub Streak" />
 </p>
+<p align="center">
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=Asik8&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
+  ![Asik8's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asik8&show_icons=true&theme=dark&hide_border=false)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asik8&layout=compact&theme=dark&hide_border=false)
+
+</p>
 
 ---
 
