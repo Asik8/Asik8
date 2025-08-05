@@ -53,10 +53,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asik8&theme=github-dark-blue&hide_border=false" alt="GitHub Streak" />
 </p>
 <p align="center">
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=Asik8&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
-  ![Asik8's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asik8&show_icons=true&theme=dark&hide_border=false)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asik8&layout=compact&theme=dark&hide_border=false)
-
 </p>
 
 ---
@@ -75,21 +72,6 @@
 
 ---
 
-### 📌 Pinned Repositories
-
-[LeetCode](https://github.com/Asik8/LeetCode) • 
-[CodeChef](https://github.com/Asik8/CodeChef) • 
-[My-Codeforces](https://github.com/Asik8/My-Codeforces) • 
-[HackerRank](https://github.com/Asik8/Hackerrank) • 
-[BeeCrowd-Problems](https://github.com/Asik8/BeeCrowd-Problems) • 
-[Algorithms-Phitron](https://github.com/Asik8/Algorithms-Phitron)
-
----
-
 ### 🗓️ Contribution Graph
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Asik8&theme=github-compact)](https://github.com/Asik8)
-
----
-
-🔄 _More sections will be added soon as I grow in my learning journey!_
