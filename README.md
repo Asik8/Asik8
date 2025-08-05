@@ -49,12 +49,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asik8&layout=compact&theme=github_dark" alt="Top languages" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asik8&theme=github-dark-blue&hide_border=false" alt="GitHub Streak" />
-</p>
+</p> -->
+
 <p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asik8&layout=compact&theme=dark&hide_border=false)
+  <img src="https://streak-stats.demolab.com?user=Asik8&theme=github-dark-blue&hide_border=false" alt="GitHub Streak" />
 </p>
+
 
 ---
 
