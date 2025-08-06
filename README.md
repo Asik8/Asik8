@@ -18,16 +18,39 @@
 
 ### 🌐 Coding Profiles
 
-- [LeetCode](https://leetcode.com/u/asikMSL/)
-- [Codeforces](https://codeforces.com/profile/asikM)
-- [CodeChef](https://www.codechef.com/users/asikm)
-- [VJudge](https://vjudge.net/user/Aaasik)
-- [AtCoder](https://atcoder.jp/users/asikM)
-- [CSES](https://cses.fi/user/258417)
-- [Beecrowd](https://judge.beecrowd.com/en/profile/679126)
-- [LightOJ](https://lightoj.com/user/mbasik)
-- [Naukri (Code360)](https://www.naukri.com/code360/profile/asikM)
-- [HackerRank](https://www.hackerrank.com/profile/asik15_4976)
+<p align="center">
+  <a href="https://leetcode.com/u/asikMSL/" title="LeetCode" target="_blank" rel="noopener">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" alt="LeetCode" height="32" style="margin:0 10px;"/>
+  </a>
+  <a href="https://codeforces.com/profile/asikM" title="Codeforces" target="_blank" rel="noopener">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" alt="Codeforces" height="32" style="margin:0 10px;"/>
+  </a>
+  <a href="https://www.codechef.com/users/asikm" title="CodeChef" target="_blank" rel="noopener">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" alt="CodeChef" height="32" style="margin:0 10px;"/>
+  </a>
+  <a href="https://vjudge.net/user/Aaasik" title="VJudge" target="_blank" rel="noopener">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vjudge.svg" alt="VJudge" height="32" style="margin:0 10px;"/>
+  </a>
+  <a href="https://atcoder.jp/users/asikM" title="AtCoder" target="_blank" rel="noopener">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/atcoder.svg" alt="AtCoder" height="32" style="margin:0 10px;"/>
+  </a>
+  <a href="https://cses.fi/user/258417" title="CSES" target="_blank" rel="noopener">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cses.svg" alt="CSES" height="32" style="margin:0 10px;"/>
+  </a>
+  <a href="https://judge.beecrowd.com/en/profile/679126" title="Beecrowd" target="_blank" rel="noopener">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/beecrowd.svg" alt="Beecrowd" height="32" style="margin:0 10px;"/>
+  </a>
+  <a href="https://lightoj.com/user/mbasik" title="LightOJ" target="_blank" rel="noopener">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/lightoj.svg" alt="LightOJ" height="32" style="margin:0 10px;"/>
+  </a>
+  <a href="https://www.naukri.com/code360/profile/asikM" title="Naukri Code360" target="_blank" rel="noopener">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/naukri.svg" alt="Naukri" height="32" style="margin:0 10px;"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/asik15_4976" title="HackerRank" target="_blank" rel="noopener">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" alt="HackerRank" height="32" style="margin:0 10px;"/>
+  </a>
+</p>
+
 
 ---
 
