@@ -18,7 +18,7 @@
 
 ### 🌐 Coding Profiles
 
-<p align="center">
+<div align="center" style="padding: 0 40px;">
   <a href="https://leetcode.com/u/asikMSL/" title="LeetCode" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" alt="LeetCode" width="40" style="margin: 0 15px;" />
   </a>
@@ -49,7 +49,8 @@
   <a href="https://www.hackerrank.com/profile/asik15_4976" title="HackerRank" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" alt="HackerRank" width="40" style="margin: 0 15px;" />
   </a>
-</p>
+</div>
+
 
 
 ---
