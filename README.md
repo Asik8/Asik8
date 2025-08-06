@@ -43,7 +43,7 @@
     <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/atcoder.png" alt="AtCoder" width="40" style="margin: 20px 100px;" />
   </a>
   <a href="https://cses.fi/user/258417" title="CSES" target="_blank">
-    <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/csss.png" alt="CSES" width="40" style="margin: 20px 100px;" />
+    <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/cses.png" alt="CSES" width="40" style="margin: 20px 100px;" />
   </a>
   <a href="https://judge.beecrowd.com/en/profile/679126" title="Beecrowd" target="_blank">
     <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/logo-beecrowd.png" alt="Beecrowd" width="40" style="margin: 20px 100px;" />
