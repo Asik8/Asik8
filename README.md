@@ -81,13 +81,12 @@
           <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/naukri_gnb_logo.svg" alt="Naukri" width="40" />
         </a>
       </td>
-      <!-- Empty cells to maintain alignment -->
+      <!-- Empty cells to maintain table structure -->
       <td width="200"></td>
       <td width="200"></td>
     </tr>
   </table>
 </div>
-
 
 ---
 
