@@ -24,7 +24,7 @@
     <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/leet-code.svg" alt="LeetCode" width="40" style="margin: 20px 100px;" />
   </a>
   <a href="https://codeforces.com/profile/asikM" title="Codeforces" target="_blank">
-    <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/coderforces.svg" alt="Codeforces" width="40" style="margin: 20px 100px;" />
+    <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/cf.png" alt="Codeforces" width="40" style="margin: 20px 100px;" />
   </a>
   <a href="https://www.codechef.com/users/asikm" title="CodeChef" target="_blank">
     <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/codechef.svg" alt="CodeChef" width="40" style="margin: 20px 100px;" />
