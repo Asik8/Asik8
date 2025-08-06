@@ -27,7 +27,7 @@
     <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/cf.png" alt="Codeforces" width="40" style="margin: 20px 100px;" />
   </a>
   <a href="https://www.codechef.com/users/asikm" title="CodeChef" target="_blank">
-    <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/codechef.svg" alt="CodeChef" width="40" style="margin: 20px 100px;" />
+    <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/cc-logo.svg" alt="CodeChef" width="40" style="margin: 20px 100px;" />
   </a>
   <a href="https://www.hackerrank.com/profile/asik15_4976" title="HackerRank" target="_blank">
     <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/hackerrank.svg" alt="HackerRank" width="40" style="margin: 20px 100px;" />
