@@ -21,45 +21,44 @@
 <div align="center">
   <!-- First Row -->
   <a href="https://leetcode.com/u/asikMSL/" title="LeetCode" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" alt="LeetCode" width="40" style="margin: 10px 20px;" />
+    <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/leet-code.svg" alt="LeetCode" width="40" style="margin: 20px 100px;" />
   </a>
   <a href="https://codeforces.com/profile/asikM" title="Codeforces" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" alt="Codeforces" width="40" style="margin: 10px 20px;" />
+    <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/coderforces.svg" alt="Codeforces" width="40" style="margin: 20px 100px;" />
   </a>
   <a href="https://www.codechef.com/users/asikm" title="CodeChef" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" alt="CodeChef" width="40" style="margin: 10px 20px;" />
+    <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/codechef.svg" alt="CodeChef" width="40" style="margin: 20px 100px;" />
   </a>
   <a href="https://www.hackerrank.com/profile/asik15_4976" title="HackerRank" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" alt="HackerRank" width="40" style="margin: 10px 20px;" />
+    <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/hackerrank.svg" alt="HackerRank" width="40" style="margin: 20px 100px;" />
   </a>
 
   <br />
 
   <!-- Second Row -->
   <a href="https://vjudge.net/user/Aaasik" title="VJudge" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vjudge.svg" alt="VJudge" width="40" style="margin: 10px 20px;" />
+    <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/vjudge.ico" alt="VJudge" width="40" style="margin: 20px 100px;" />
   </a>
   <a href="https://atcoder.jp/users/asikM" title="AtCoder" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/atcoder.svg" alt="AtCoder" width="40" style="margin: 10px 20px;" />
+    <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/atcoder.png" alt="AtCoder" width="40" style="margin: 20px 100px;" />
   </a>
   <a href="https://cses.fi/user/258417" title="CSES" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cses.svg" alt="CSES" width="40" style="margin: 10px 20px;" />
+    <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/csss.png" alt="CSES" width="40" style="margin: 20px 100px;" />
   </a>
   <a href="https://judge.beecrowd.com/en/profile/679126" title="Beecrowd" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/beecrowd.svg" alt="Beecrowd" width="40" style="margin: 10px 20px;" />
+    <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/logo-beecrowd.png" alt="Beecrowd" width="40" style="margin: 20px 100px;" />
   </a>
 
   <br />
 
   <!-- Third Row -->
   <a href="https://lightoj.com/user/mbasik" title="LightOJ" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/lightoj.svg" alt="LightOJ" width="40" style="margin: 10px 20px;" />
+    <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/lightoj.png" alt="LightOJ" width="40" style="margin: 20px 100px;" />
   </a>
   <a href="https://www.naukri.com/code360/profile/asikM" title="Naukri Code360" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/naukri.svg" alt="Naukri" width="40" style="margin: 10px 20px;" />
+    <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/naukri_gnb_logo.svg" alt="Naukri" width="40" style="margin: 20px 100px;" />
   </a>
 </div>
-
 
 
 
