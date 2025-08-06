@@ -53,7 +53,7 @@
 
   <!-- Third Row -->
   <a href="https://lightoj.com/user/mbasik" title="LightOJ" target="_blank">
-    <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/lightoj.png" alt="LightOJ" width="40" style="margin: 20px 100px;" />
+    <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/loj-logo-inverted.png" alt="LightOJ" width="40" style="margin: 20px 100px;" />
   </a>
   <a href="https://www.naukri.com/code360/profile/asikM" title="Naukri Code360" target="_blank">
     <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/naukri_gnb_logo.svg" alt="Naukri" width="40" style="margin: 20px 100px;" />
