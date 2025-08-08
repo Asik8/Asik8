@@ -85,27 +85,19 @@
 
 ### 🔗 Social Links
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="mailto:motasembillah84@gmail.com" title="Email">
-        📧 <br /> <sub>motasembillah84@gmail.com</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/motasem-billah-asik-251185317/" title="LinkedIn">
-        <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/linkedin.svg" height="40" alt="LinkedIn" /><br />
-        <sub>LinkedIn</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.facebook.com/motasembillahasik.asik/" title="Facebook">
-        <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/facebook.svg" height="40" alt="Facebook" /><br />
-        <sub>Facebook</sub>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="mailto:motasembillah84@gmail.com" title="Email">
+    <img src="https://img.icons8.com/color/48/gmail--v1.png" alt="Email" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/motasem-billah-asik-251185317/" title="LinkedIn">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/motasembillahasik.asik/" title="Facebook">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" height="40" />
+  </a>
+</p>
 
 ---
 
