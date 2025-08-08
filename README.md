@@ -45,7 +45,7 @@
   <tr>
     <td align="center">
       <a href="https://vjudge.net/user/Aaasik" title="VJudge">
-        <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/vjudge.png" height="40" alt="VJudge" />
+        <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/vjudge.ico" height="40" alt="VJudge" />
       </a>
     </td>
     <td align="center">
