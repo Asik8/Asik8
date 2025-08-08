@@ -85,9 +85,27 @@
 
 ### 🔗 Social Links
 
-- 📧 Email: motasembillah84@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/motasem-billah-asik-251185317/)
-- [Facebook](https://www.facebook.com/motasembillahasik.asik/)
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="mailto:motasembillah84@gmail.com" title="Email">
+        📧 <br /> <sub>motasembillah84@gmail.com</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/motasem-billah-asik-251185317/" title="LinkedIn">
+        <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/linkedin.svg" height="40" alt="LinkedIn" /><br />
+        <sub>LinkedIn</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.facebook.com/motasembillahasik.asik/" title="Facebook">
+        <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/facebook.svg" height="40" alt="Facebook" /><br />
+        <sub>Facebook</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
