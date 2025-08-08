@@ -18,56 +18,68 @@
 
 ### 🌐 Coding Profiles
 
-<p align="center">
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://leetcode.com/u/asikMSL/" title="LeetCode">
+        <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/leet-code.svg" height="40" alt="LeetCode" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://codeforces.com/profile/asikM" title="Codeforces">
+        <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/cf.png" height="40" alt="Codeforces" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.codechef.com/users/asikm" title="CodeChef">
+        <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/cc-logo.svg" height="40" alt="CodeChef" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.hackerrank.com/profile/asik15_4976" title="HackerRank">
+        <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/hackerrank.svg" height="40" alt="HackerRank" />
+      </a>
+    </td>
+  </tr>
 
-  <!-- First row -->
-  <a href="https://leetcode.com/u/asikMSL/" title="LeetCode">
-    <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/leet-code.svg" alt="LeetCode" height="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <tr>
+    <td align="center">
+      <a href="https://vjudge.net/user/Aaasik" title="VJudge">
+        <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/vjudge.png" height="40" alt="VJudge" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://atcoder.jp/users/asikM" title="AtCoder">
+        <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/atcoder.png" height="40" alt="AtCoder" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://cses.fi/user/258417" title="CSES">
+        <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/cses.png" height="40" alt="CSES" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://judge.beecrowd.com/en/profile/679126" title="Beecrowd">
+        <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/logo-beecrowd.png" height="40" alt="Beecrowd" />
+      </a>
+    </td>
+  </tr>
 
-  <a href="https://codeforces.com/profile/asikM" title="Codeforces">
-    <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/cf.png" alt="Codeforces" height="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.codechef.com/users/asikm" title="CodeChef">
-    <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/cc-logo.svg" alt="CodeChef" height="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.hackerrank.com/profile/asik15_4976" title="HackerRank">
-    <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/hackerrank.svg" alt="HackerRank" height="40" />
-  </a>
-
-  <br><br>
-
-  <!-- Second row -->
-  <a href="https://vjudge.net/user/Aaasik" title="VJudge">
-    <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/vjudge.png" alt="VJudge" height="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://atcoder.jp/users/asikM" title="AtCoder">
-    <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/atcoder.png" alt="AtCoder" height="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://cses.fi/user/258417" title="CSES">
-    <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/cses.png" alt="CSES" height="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://judge.beecrowd.com/en/profile/679126" title="Beecrowd">
-    <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/logo-beecrowd.png" alt="Beecrowd" height="40" />
-  </a>
-
-  <br><br>
-
-  <!-- Third row -->
-  <a href="https://lightoj.com/user/mbasik" title="LightOJ">
-    <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/loj-logo-inverted.png" alt="LightOJ" height="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.naukri.com/code360/profile/asikM" title="Naukri Code360">
-    <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/naukri_gnb_logo.svg" alt="Naukri" height="40" />
-  </a>
-
-</p>
+  <tr>
+    <td align="center">
+      <a href="https://lightoj.com/user/mbasik" title="LightOJ">
+        <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/loj-logo-inverted.png" height="40" alt="LightOJ" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.naukri.com/code360/profile/asikM" title="Naukri Code360">
+        <img src="https://raw.githubusercontent.com/Asik8/Asik8/main/images/naukri_gnb_logo.svg" height="40" alt="Naukri" />
+      </a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
